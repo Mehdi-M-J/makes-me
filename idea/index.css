@@ -1,0 +1,24 @@
+body{
+    background-image: url(Downloads/26.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.form{
+    background-color: rgba(255, 0, 0, 0.53);
+    width: 345px;
+    height: 450px;
+    background-blend-mode: darken;
+    text-align: center;
+    margin: auto;
+    margin-top: 4%;
+    font-size: large;
+    border-radius: 30px;
+    border-style: double;
+    border-color: aqua;
+    outline: none;
+}
+
+.li8ne{
+    outline: none;
+}
